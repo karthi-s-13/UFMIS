@@ -1,0 +1,7 @@
+{
+  "name": "Urban Flood Micro-Hotspot Intelligence System",
+  "description": "A GIS-powered smart city solution for predicting urban flood hotspots and ward-level readiness in Chennai.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
